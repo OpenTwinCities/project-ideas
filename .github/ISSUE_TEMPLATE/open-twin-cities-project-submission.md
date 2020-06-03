@@ -13,8 +13,8 @@ _Please complete all applicable._
 
 - **Project Name**:
 - **Short Project Description**: _One line crisp description of your project_
-- **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
-- **Repository Link(s)**: _Provide us the link to your code._
+- **Link(s)**: _If any, this might contain a website/ mobile application link/ short video, tweets, blog posts, etc._
+- **Contact Info**: _What is the best way for us to connect with you?_
 
 
 ## 💻 A Full Project Description
