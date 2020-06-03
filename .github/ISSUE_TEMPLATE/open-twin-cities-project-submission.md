@@ -1,7 +1,8 @@
 ---
 name: Open Twin Cities Project Submission
-about: Open Twin Cities Project Submission
-title: ''
+about: Use this template to submit an idea for the Open Twin Cities community to work
+  on
+title: OTC Project Proposal - [_PROJECT NAME_]
 labels: ''
 assignees: ''
 
